@@ -1,0 +1,7 @@
+<html>
+<head><title>My AWS Project</title></head>
+<body>
+    <h1>Hello from AWS!</h1>
+    <p>This site is served from EC2 and synced from S3.</p>
+</body>
+</html>
